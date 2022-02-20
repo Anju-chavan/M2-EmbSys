@@ -1,5 +1,7 @@
-# **For real components:**
-    PIC18f4620 Micro-controller.
+    For real components:
+
+
+    Micro-controller.
     Keypad.
     4*16 LCD.
     Heater.
@@ -8,6 +10,9 @@
     Buzzer.
     3 Buttons (Start, Stop, and Power Off Button).
     Door and Weight Sensor.
-## **For simulation:**
-    PicSimLab and use PICGenious Borad.
+
+
+    For simulation
+
+    
     Proteus and simulate the whole needed circuits.

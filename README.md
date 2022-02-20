@@ -8,7 +8,7 @@ The microwave oven uses less energy than a cook stove if it cooks or reheats sma
 # *Requirements*
 
 ## **For real components:**
-    PIC18f4620 Micro-controller.
+     Micro-controller.
     Keypad.
     4*16 LCD.
     Heater.
@@ -19,5 +19,4 @@ The microwave oven uses less energy than a cook stove if it cooks or reheats sma
     Door and Weight Sensor.
 
 ## **For simulation:**
-    PicSimLab and use PICGenious Borad.
     Proteus and simulate the whole needed circuits.

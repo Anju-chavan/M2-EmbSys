@@ -17,6 +17,7 @@ The microwave oven uses less energy than a cook stove if it cooks or reheats sma
     Buzzer.
     3 Buttons (Start, Stop, and Power Off Button).
     Door and Weight Sensor.
+    
 ## **For simulation:**
     PicSimLab and use PICGenious Borad.
     Proteus and simulate the whole needed circuits.

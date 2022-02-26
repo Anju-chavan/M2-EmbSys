@@ -36,17 +36,17 @@ The microwave oven uses less energy than a cook stove if it cooks or reheats sma
 
 ## **High level requiremens**
 
- 1. The microwave oven shall be simple in operation and with turnable.
- 2. The system shall be able to cook in limited time frame.
- 3. The system shall have variable Heat Settings
- 4. Low Energy Consumption
- 5. The system should not Change the Taste And Nutrition
+ HLR1. The microwave oven shall be simple in operation and with turnable.
+ HLR2. The system shall be able to cook in limited time frame.
+ HLR3. The system shall have variable Heat Settings
+ HLR4. Low Energy Consumption
+ HLR5. The system should not Change the Taste And Nutrition
 
  
 ## **Low level requiremens**
 
-1.  The system should be easy to clean.
-2.  The system should be Safe For Children. 
+LLR1.  The system should be easy to clean.
+LLR2.  The system should be Safe For Children. 
 
 
 ## **Use of actuators and sensors**

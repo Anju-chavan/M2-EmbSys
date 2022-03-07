@@ -27,7 +27,7 @@ The microwave oven uses less energy than a cook stove if it cooks or reheats sma
 
 ## **For simulation:**
 
-    Proteus and simulate the whole needed circuits.
+    simulate the whole needed circuits.
 
 
 ## **High level requiremens**
